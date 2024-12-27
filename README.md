@@ -15,3 +15,9 @@ Predicting house price with linear regression and with feature selection
 ## Run the Notebook on Google Colab
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/House-Price-Prediction/blob/main/Code/House_Price_Prediction.ipynb)
+
+## Algorithms used
+
+- Pearson Correlation : for features selection
+- Mutual Information : for feature seletion
+- Linear Regression algorithm : for training model
