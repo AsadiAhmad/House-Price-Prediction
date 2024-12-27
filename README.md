@@ -41,3 +41,7 @@ pd.set_option('display.max_rows', None)
 train_set = pd.read_csv(train_set_url)
 test_set = pd.read_csv(test_set_url)
 ```
+
+## License
+
+This project is licensed under the MIT License.
